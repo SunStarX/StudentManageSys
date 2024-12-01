@@ -1,0 +1,5 @@
+﻿  Student_Manage_Sys.c
+  main.c
+  正在生成代码...
+E:\PROJ\github\StudentManageSys\StudentManageSys\Student_Manage_Sys\Student_Manage_Sys.c(88,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  StudentManageSys.vcxproj -> E:\PROJ\github\StudentManageSys\x64\Debug\StudentManageSys.exe
